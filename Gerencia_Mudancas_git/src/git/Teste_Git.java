@@ -14,6 +14,8 @@ public class Teste_Git
 		System.out.println(objClassDois.getMessage());
 		
 		System.out.println(objClasstres.getMessage());
+		
+		System.out.println("Exibe uma última nova mensagem");
 
 	}
 
