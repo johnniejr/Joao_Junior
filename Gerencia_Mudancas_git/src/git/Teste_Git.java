@@ -19,6 +19,8 @@ public class Teste_Git
 		
 		System.out.println("Teste prático");
 		
+		System.out.println("Teste de pull");
+		
 		System.out.println("Exibe uma última nova mensagem");
 
 	}
