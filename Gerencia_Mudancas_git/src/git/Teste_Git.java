@@ -19,7 +19,10 @@ public class Teste_Git
 		
 		System.out.println("Teste prático");
 		
+		System.out.println("Conflito de pull");
+		
 		System.out.println("Exibe uma última nova mensagem");
+		
 
 	}
 
