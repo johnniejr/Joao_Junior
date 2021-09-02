@@ -17,6 +17,8 @@ public class Teste_Git
 		
 		System.out.println(objClasstres.getMessage2());
 		
+		System.out.println("nessa branch não foi nada modificado");
+		
 		System.out.println("Exibe uma última nova mensagem");
 
 	}
