@@ -24,6 +24,7 @@ public class Teste_Git
 		System.out.println("Conflito de pull");
 
 		System.out.println("Agora o merge está completo");
+		System.out.println("New BRanch");
 		
 		System.out.println("Exibe uma última nova mensagem");
 		
