@@ -25,6 +25,8 @@ public class Teste_Git
 
 		System.out.println("Agora o merge está completo");
 		
+		System.out.println("Agora o merge está completo");
+		
 		System.out.println("Exibe uma última nova mensagem");
 		
 
